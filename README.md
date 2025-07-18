@@ -112,22 +112,22 @@
 I'm active across different platforms for learning, building, and networking. Find me on:
 
 <p align="center">
-  <a href="https://leetcode.com/yourusername/">
+  <a href="https://leetcode.com/u/Deval_Bhimani/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourusername/">
+  <a href="www.linkedin.com/in/dlbhimani-it-lecm-cte">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:devalbhimani9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Devalbhimani" >
     <img src="https://img.shields.io/badge/Follow-white?style=for-the-badge&logo=github&logoColor=black" alt="Follow on GitHub"/>
   </a>
-  <a href="https://discordapp.com/users/yourdiscordid">
+  <a href="https://discordapp.com/users/deval_bhimani">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://x.com/Devalbhimani">
     <img src="https://img.shields.io/badge/Follow-white?style=for-the-badge&logo=x&logoColor=black" alt="Follow on X""/>
   </a>
 </p>
