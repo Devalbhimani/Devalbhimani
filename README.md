@@ -115,7 +115,7 @@ I'm active across different platforms for learning, building, and networking. Fi
   <a href="https://leetcode.com/u/Deval_Bhimani/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
-  <a href="www.linkedin.com/in/dlbhimani-it-lecm-cte">
+  <a href="https://linkedin.com/in/dlbhimani-it-lecm-cte">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:devalbhimani9@gmail.com">
